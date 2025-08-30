@@ -45,6 +45,9 @@ header {
   font-size: 1.8rem;
   color: #43ea6a;
   transition: color 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .links a:hover .icon {
   color: #bf7cfb;
